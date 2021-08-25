@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629873253 source:e:\codeforces\advanced\quy hoach dong\problem23\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	<math.h>
+	<string>
+

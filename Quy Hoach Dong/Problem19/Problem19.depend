@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629643454 source:e:\codeforces\advanced\quy hoach dong\problem19\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+
